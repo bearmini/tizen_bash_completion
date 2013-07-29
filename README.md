@@ -1,5 +1,11 @@
-tizen_bash_completion
+Tizen bash completion
 =====================
+
+This project provides bash completions for commands in the Tizen SDK.
+
+Currently only 'sdb' command is supported. Please send me a request support for other commands.
+
+
 
 Installation
 ------------
